@@ -9,4 +9,4 @@ tmp/*.sql
 .env.test
 
 #Build
-build
+dist
