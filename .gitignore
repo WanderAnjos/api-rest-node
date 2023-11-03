@@ -1,2 +1,12 @@
+#Dependencies
 node_modules
-tmp/app.sql
+
+#DataBase
+tmp/*.sql
+
+#Enviroment
+.env
+.env.test
+
+#Build
+build
